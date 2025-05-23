@@ -76,7 +76,8 @@ A comprehensive SQL query was developed to engineer features needed for CLTV mod
 
 ```
 /Business_Analysis/         → Jupyter notebook with SQL-based business analysis  
-/CLTV_Model/                → Jupyter notebook for Customer Lifetime Value prediction (SQL + ML)  
+/CLTV_Model/                → Jupyter notebook for Customer Lifetime Value prediction (SQL + ML), the saved model 
+                              (clv_model.pkl) and scaler (scaler.pkl) for easy reuse
 /PowerBI_Dashboard/         → .pbix file containing interactive dashboards
 /Power_Point/               → PowerPoint presentation summarizing insights and CLV predictions.
 /Screenshots/               → Power Bi dashboard images  
