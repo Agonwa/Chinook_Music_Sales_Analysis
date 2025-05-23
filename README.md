@@ -8,6 +8,11 @@ This project analyzes customer purchasing behavior and sales data from the Chino
 
 ## 🎯 Business Use Cases Addressed
 
+## 📊 Power BI Dashboard Preview
+
+![Dashboard Preview](Screenshots/dashboard_page_1.png)
+
+
 ### 📊 Descriptive Analytics (Power BI Dashboard)
 
 **Page 1**
